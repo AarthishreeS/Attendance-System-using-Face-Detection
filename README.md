@@ -7,14 +7,14 @@ This attendance system uses hierarchical search functionality, which enables adm
 The system is designed to be scalable and supports multiple clients, making it suitable for use in a wide range of contexts.
 
 The python_bt.py file analysis these search algorithms:
-Breadth first search
-Depth first search
-Exponential search
-Iterative Deepening search
-Moris search
-Backtrack serach
-Greedy best worst search
-Hierarchial search
-Depth limited search
-Binary search
+Breadth first search,
+Depth first search,
+Exponential search,
+Iterative Deepening search,
+Moris search,
+Backtrack serach,
+Greedy best worst search,
+Hierarchial search,
+Depth limited search,
+Binary search,
 The Search_analysis.jpeg contains the results for the time taken for the searches.
